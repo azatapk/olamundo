@@ -11,7 +11,13 @@
       "src": "icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
-      "purpose": "any"
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-912.png",
+      "sizes": "912x912",
+      "type": "image/png",
+      "purpose": "any maskable"
     }
   ]
 }

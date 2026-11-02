@@ -4,6 +4,19 @@ const ASSETS = [
   'style.css',
   'app.js',
   'manifest.json',
+  'icon-512.png',
+  'icon-912.png'
+];
+
+// O restante do seu arquivo sw.js continua exatamente igual...
+
+
+const CACHE_NAME = 'ola-mundo-cache-v1';
+const ASSETS = [
+  'index.html',
+  'style.css',
+  'app.js',
+  'manifest.json',
   'icon-512.png'
 ];
 
